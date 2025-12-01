@@ -13,3 +13,5 @@ Bird - Bixi - Bolt - Chrono - CityMapper - FlixBus - Lime - Lyft - Mobicité - M
 |Asim Rahman|40207553|GG|
 |Gianluca Girardi|40228370|GG|
 |Joud Babik|40031039|FF|
+
+**Note:** Our teammate Joud Babik from section FF joined us with permission from the professor.
