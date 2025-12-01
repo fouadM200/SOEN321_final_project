@@ -4,7 +4,7 @@
 
 Bird - Bixi - Bolt - Chrono - CityMapper - FlixBus - Lime - Lyft - Mobicité - MonTransit - Moovit - RTC Nomade Paiement - Transit - VIA Rail
 
-|**Team members names**|**StudentID**|**Section**|
+|**Team members names**|**Student ID**|**Section**|
 |----------------------|-------------|-----------|
 |Johnny aldeb|40187248|GG|
 |Danny Mousa|40226912|GG|
