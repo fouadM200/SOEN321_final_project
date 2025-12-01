@@ -1,4 +1,8 @@
-# SOEN321_final_project
+# SOEN321 Final Project: Security and Privacy Analysis of Urban Mobility Apps
+
+**A GitHub repository containing static & dynamic analysis of the selected apps chosen for our project:**
+
+Bird - Bixi - Bolt - Chrono - CityMapper - FlixBus - Lime - Lyft - Mobicité - MonTransit - Moovit - RTC Nomade Paiement - Transit - VIA Rail
 
 |**Team members names**|**StudentID**|**Section**|
 |----------------------|-------------|-----------|
